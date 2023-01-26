@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  AU22-Localization
+
+  Created by David Svensson on 2023-01-26.
+  
+*/
+
+"thank_you" = "Tack!";
+
+"animal" = "dog";
